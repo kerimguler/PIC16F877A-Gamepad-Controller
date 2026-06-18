@@ -79,8 +79,6 @@ Department: Electrical and Electronics Engineering (EEE)
 
 ## Course
 
-Microprocessors Laboratory Project
+Microprocessors Course Project
 
-## License
 
-This project was developed for educational purposes.
